@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
-        android:text="Datum rođenja"
+        android:text="Datum rodenja"
         app:layout_constraintBottom_toBottomOf="@+id/editTextDate"
         app:layout_constraintEnd_toStartOf="@+id/editTextDate"
         app:layout_constraintStart_toStartOf="parent"
